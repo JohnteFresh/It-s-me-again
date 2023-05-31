@@ -66,22 +66,11 @@ After you're finished please remove all the comments and instructions!
 
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+   <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+   <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
@@ -92,14 +81,6 @@ After you're finished please remove all the comments and instructions!
 - **[Fast loading time]**
 - **[Strong data protection]**
 - **[Excellent user support]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](http://127.0.0.1:5500/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,75 +96,26 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+- [ ] A Web Browser(Google chrome)
+- [ ] Integrated Development Environment(VSCode)
 
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+https://github.com/JohnteFresh/It-s-me-again.git
 
 ### Install
 
 Install this project with:
+This project does not need installation. It automatically runs on the web browser.
 
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
-### Usage
+### Use
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+In order to use this project:
+Open in browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,31 +155,17 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support" href = "https://github.com/JohnteFresh">GitHub</a>
 
-If you like this project leave a review and rate us on Google playstore and AppleStore
+If you like this project feel free to contribute and leave a review.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="acknowledgements">Lewis Hinga</a>
 
 I would like to thank Lewis Hinga for his valued contribution and help in completion of the project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[How much do you charger?]**
-
-  - [0 upfront fee.]
-
-- **[Can i use the app on my phone?]**
-
-  - [You can use a laptop, a phone, any smart device can be used to access.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,8 +173,6 @@ I would like to thank Lewis Hinga for his valued contribution and help in comple
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT.md] licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
