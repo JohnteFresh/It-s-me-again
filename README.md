@@ -26,11 +26,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -60,17 +56,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Its Me Again] <a name="about-project">Hello Microverse</a>
 
-> Describe your project in 1 or 2 sentences.
+**[Hello Microverse]** is a practice project aimed at sharpening programming knowledge of beginner programmers.
 
-**[your_project__name]** is a...
+## 🛠 Built With <a name="built-with">html and css</a>
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack">PERN</a>
 
 <details>
   <summary>Client</summary>
@@ -95,13 +87,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features">Key Features</a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Fast loading time]**
+- **[Strong data protection]**
+- **[Excellent user support]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +99,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](http://127.0.0.1:5500/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +107,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+<p>A new developer would use my project as a guide to set up linters</p>
 
 To get a local copy up and running, follow these steps.
 
@@ -201,20 +189,14 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="authors">Johnson Irungu</a>
 
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@githubhandle](https://github.com/JohnteFresh)
+- Twitter: [@twitterhandle](https://twitter.com/RoadKing254)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -223,11 +205,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Contacts]**
+- [ ] **[FAQ]**
+- [ ] **[Alumni]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +225,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project leave a review and rate us on Google playstore and AppleStore
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +233,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Lewis Hinga for his valued contribution and help in completion of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -265,15 +241,13 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **[How much do you charger?]**
 
-- **[Question_1]**
+  - [0 upfront fee.]
 
-  - [Answer_1]
+- **[Can i use the app on my phone?]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [You can use a laptop, a phone, any smart device can be used to access.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
