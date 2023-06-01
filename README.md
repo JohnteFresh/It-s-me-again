@@ -65,13 +65,14 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack">(FRONT-END)</a>
 
 <details>
-  <summary>Client</summary>
+
    <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
    <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
+
 </details>
 
 <!-- Features -->
@@ -84,6 +85,7 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -95,27 +97,23 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-- [ ] A Web Browser(Google chrome)
-- [ ] Integrated Development Environment(VSCode)
+- [ ] Web Browser(Google chrome)
+- [ ] Integrated Development Environment(VsCode)
 
 
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/JohnteFresh/It-s-me-again.git
 
 ### Install
 
-Install this project with:
-This project does not need installation. It automatically runs on the web browser.
-
-
+Install this project with: Installation not required. Runs seemlessly on Chrome browser.
 
 ### Usage
 
-In order to use this project:
-Open in browser.
+To run the project, execute the following command:
+You need to double-click the index.html file.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
