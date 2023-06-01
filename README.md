@@ -173,6 +173,6 @@ I would like to thank Lewis Hinga for his valued contribution and help in comple
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT.md] licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
