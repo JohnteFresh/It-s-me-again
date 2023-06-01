@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with">html and css</a>
 
-### Tech Stack <a name="tech-stack">PERN</a>
+### Tech Stack <a name="tech-stack">(FRONT-END)</a>
 
 <details>
   <summary>Client</summary>
@@ -112,7 +112,7 @@ This project does not need installation. It automatically runs on the web browse
 
 
 
-### Use
+### Usage
 
 In order to use this project:
 Open in browser.
