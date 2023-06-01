@@ -65,7 +65,7 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack">(FRONT-END)</a>
 
 <details>
- <summary>Client</summary>
+
    <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
@@ -104,27 +104,15 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
--[ ] https://github.com/JohnteFresh/It-s-me-again.git
 
 ### Install
 
-Install this project with:
--[ ] It automatically runs on the web browser. If you want to instal follow prompts on webpage.
-
+Install this project with: Installation not required. Runs seemlessly on Chrome browser.
 
 ### Usage
 
 To run the project, execute the following command:
-Open with a browser(Works best on Chrome browser)
-
-### Run tests
-
-To run tests, run the following command:
-
-
-### Deployment
-
-You can deploy this project using:
+You need to double-click the index.html file.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -165,31 +153,17 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support" href = "https://github.com/JohnteFresh">GitHub</a>
 
-If you like this project leave a review and rate us on Google playstore and AppleStore
+If you like this project feel free to contribute and leave a review.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="acknowledgements">Lewis Hinga</a>
 
 I would like to thank Lewis Hinga for his valued contribution and help in completion of the project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[How much do you charger?]**
-
-  - [0 upfront fee.]
-
-- **[Can i use the app on my phone?]**
-
-  - [You can use a laptop, a phone, any smart device can be used to access.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,8 +171,6 @@ I would like to thank Lewis Hinga for his valued contribution and help in comple
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
