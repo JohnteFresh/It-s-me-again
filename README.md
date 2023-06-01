@@ -62,27 +62,17 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With <a name="built-with">html and css</a>
 
-### Tech Stack <a name="tech-stack">PERN</a>
+### Tech Stack <a name="tech-stack">(FRONT-END)</a>
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+ <summary>Client</summary>
+   <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
   </ul>
-</details>
+   <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 <!-- Features -->
@@ -95,13 +85,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](http://127.0.0.1:5500/index.html)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -114,76 +97,35 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- [ ] Web Browser(Google chrome)
+- [ ] Integrated Development Environment(VsCode)
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+-[ ] https://github.com/JohnteFresh/It-s-me-again.git
 
 ### Install
 
 Install this project with:
+-[ ] It automatically runs on the web browser. If you want to instal follow prompts on webpage.
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+Open with a browser(Works best on Chrome browser)
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
